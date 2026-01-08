@@ -62,4 +62,3 @@ Clear text : Hello world
 ## License
 
 Feel free to use, modify, and share.
-# Uuencoding-to-clear-text
